@@ -1,0 +1,28 @@
+Log file created at: 2019/02/25 21:21:13
+Running on machine: worker1-shweta
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0225 21:21:13.652101 60562 worker.cc:46] Worker-Server Logs
+I0225 21:21:15.416774 60568 worker.cc:31] Worker-Server Logs
+I0225 21:21:15.416806 60568 worker.cc:32] Request Handler: Master2 
+I0225 21:21:21.419903 60576 worker.cc:31] Worker-Server Logs
+I0225 21:21:21.419919 60576 worker.cc:32] Request Handler: Master2 
+I0225 21:21:27.423578 60576 worker.cc:31] Worker-Server Logs
+I0225 21:21:27.423593 60576 worker.cc:32] Request Handler: Master2 
+I0225 21:21:35.206815 60576 worker.cc:31] Worker-Server Logs
+I0225 21:21:35.206826 60576 worker.cc:32] Request Handler: Master1 
+I0225 21:21:41.210363 60576 worker.cc:31] Worker-Server Logs
+I0225 21:21:41.210377 60576 worker.cc:32] Request Handler: Master1 
+I0225 21:21:47.213492 60576 worker.cc:31] Worker-Server Logs
+I0225 21:21:47.213506 60576 worker.cc:32] Request Handler: Master1 
+I0225 21:21:53.217209 60576 worker.cc:31] Worker-Server Logs
+I0225 21:21:53.217257 60576 worker.cc:32] Request Handler: Master1 
+I0225 21:21:59.221240 60576 worker.cc:31] Worker-Server Logs
+I0225 21:21:59.221256 60576 worker.cc:32] Request Handler: Master1 
+I0225 21:22:05.224773 60576 worker.cc:31] Worker-Server Logs
+I0225 21:22:05.224786 60576 worker.cc:32] Request Handler: Master1 
+I0225 21:22:13.493476 60576 worker.cc:31] Worker-Server Logs
+I0225 21:22:13.493489 60576 worker.cc:32] Request Handler: Master2 
+I0225 21:22:19.497156 60576 worker.cc:31] Worker-Server Logs
+I0225 21:22:19.497171 60576 worker.cc:32] Request Handler: Master2 
+I0225 21:22:25.501214 60576 worker.cc:31] Worker-Server Logs
+I0225 21:22:25.501229 60576 worker.cc:32] Request Handler: Master2 

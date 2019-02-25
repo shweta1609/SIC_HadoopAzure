@@ -1,0 +1,19 @@
+Log file created at: 2019/02/25 21:13:41
+Running on machine: worker1-shweta
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0225 21:13:41.415362 59197 worker.cc:31] Master2 
+I0225 21:13:47.418421 59264 worker.cc:31] Master2 
+I0225 21:13:53.421628 59264 worker.cc:31] Master2 
+I0225 21:13:59.425370 59264 worker.cc:31] Master2 
+I0225 21:14:05.428571 59264 worker.cc:31] Master2 
+I0225 21:14:11.431800 59264 worker.cc:31] Master2 
+I0225 21:14:17.434587 59264 worker.cc:31] Master2 
+I0225 21:14:23.437654 59264 worker.cc:31] Master2 
+I0225 21:14:29.442674 59264 worker.cc:31] Master2 
+I0225 21:14:35.446576 59264 worker.cc:31] Master2 
+I0225 21:14:43.305243 59264 worker.cc:31] Master1 
+I0225 21:14:49.308033 59264 worker.cc:31] Master1 
+I0225 21:14:55.311663 59264 worker.cc:31] Master1 
+I0225 21:15:08.045604 59264 worker.cc:31] Master2 
+I0225 21:15:14.049157 59264 worker.cc:31] Master2 
+I0225 21:15:20.051942 59264 worker.cc:31] Master2 
