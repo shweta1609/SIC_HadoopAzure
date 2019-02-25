@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package masterworker;
+
+service MasterWorker {
+  // Ping
+  rpc sendAliveRequest (AliveRequest) returns (AliveResponse) {}
+}
+
+message AliveRequest{
+  string aliveQuery = 1;
+}
+message AliveResponse{
+  string reply = 1;
+}
+
